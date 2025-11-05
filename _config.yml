@@ -1,7 +1,7 @@
 # Site settings
 title: New News
 description: Your source for the latest news stories
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/new-news" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Build settings
