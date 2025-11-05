@@ -5,17 +5,19 @@ title: Home
 
 <div class="stories-grid">
   {% assign max_stories = site.data.feeds_count | default: 10 %}
-  {% assign two_months_ago = 'now' | date: '%s' | minus: 5184000 %}
+  {% assign two_months_in_seconds = 5184000 %}
+  {% assign now_timestamp = 'now' | date: '%s' | plus: 0 %}
   
   {% comment %}Group posts by source feed and get the newest from each{% endcomment %}
   {% assign feeds_hash = '' | split: '' %}
   {% assign featured_posts = '' | split: '' %}
   
   {% for post in site.posts %}
-    {% assign post_timestamp = post.date | date: '%s' %}
+    {% assign post_timestamp = post.date | date: '%s' | plus: 0 %}
+    {% assign age_in_seconds = now_timestamp | minus: post_timestamp %}
     {% assign feed_key = post.source_feed | default: 'unknown' %}
     {% assign is_recent = false %}
-    {% if post_timestamp > two_months_ago %}
+    {% if age_in_seconds < two_months_in_seconds %}
       {% assign is_recent = true %}
     {% endif %}
     
