@@ -1,0 +1,16 @@
+---
+date: 2025-08-26 18:04:00 -0000
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp__312JnVQhcmVvNdU-VlmTogIe0jENJFmeSWnS7_7FDL7Cdwk1sR7WaLEKfsTyOlIvNVwO-EMUN8NSGvB6RdoTAGncJaDtMBpmsm9-7iHhJU4uF_nu9PpTJFSercnaemQ2LVgK28m57FMoirQBc66XcV8f4_DeJoUKlXLeqRwCr5TG45y6D6XBq80NU/s72-w640-h426-c/RS50732_2025_06_25%20Goliath%20beetle-1.jpg
+layout: story
+source_feed: https://feeds.feedburner.com/WoodlandParkZBlog
+source_name: Woodland Park Zoo Blog
+source_url: https://blog.zoo.org/2025/08/a-first-for-woodland-park-zoo-goliath.html
+summary: 'Posted by Elizabeth BacherThese Goliath beetles are ... well ... Goliath!
+  Photo: Jeremy Dwyer-Lindgren/Woodland Park ZooThey’re big! They’re super cool! They’re
+  the current rockstars of Bug World—the BEETLES!Goliath beetles (Goliathus goliatus)
+  are among the largest and heaviest of all insects with some mature males measuring
+  in at more than 4...'
+title: 'A first for Woodland Park Zoo: The Goliath beetles are HERE!'
+---
+
+Posted by Elizabeth BacherThese Goliath beetles are ... well ... Goliath! Photo: Jeremy Dwyer-Lindgren/Woodland Park ZooThey’re big! They’re super cool! They’re the current rockstars of Bug World—the BEETLES!Goliath beetles (Goliathus goliatus) are among the largest and heaviest of all insects with some mature males measuring in at more than 4 inches long! These gentle giants (males can be aggressive towards rival male beetles but are generally harmless to humans) are native to central and west Africa.Photo: Jeremy Dwyer-Lindgren/Woodland Park ZooThese beetles spend much of their short lives as a larva then a pupa before finally emerging as adults with the entire life cycle lasting up to a year or so.&nbsp;Dedicated Bug World keeper, Maria, gently holds the Goliath beetle larva—and YES, it is bigger than her finger! Photo: Courtesy of Maria Buckner/Woodland Park ZooCheck our the hand-sized clay/sand pupal structure from which an adult Goliath beetle will emerge!&nbsp;Photo: Courtesy of Maria Buckner/Woodland Park ZooTA-DAAAH!! After several months, an adult beetle ecloses (emerges from the pupal cell).&nbsp;Photo: Courtesy of Maria Buckner/Woodland Park ZooIt’s been a labor of love and dedication for our amazing Bug World keepers, nurturing them through all these stages and meeting all their needs for very specific levels of environmental moisture, substrate and even different kinds of food!Photo: Jeremy Dwyer-Lindgren/Woodland Park ZooThe adult beetles in Bug World right now began pupation in early January 2025, and eclosed (emerged from the pupal cell) in late June—a very exciting first for Woodland Park Zoo. You can tell the males from the females by the “Y” shaped horn on their heads that they use to “battle” other males over feeding sites or mating opportunities. Our admiration for the dedication of our Bug World keepers is truly Goliath! Photo: Jeremy Dwyer-Lindgren/Woodland Park ZooCOOL BEETLE FACT:&nbsp;Like most specialized species, Goliath beetles play a very important role in maintaining the health of their tropical rainforest habitats. Their dietary needs change throughout their lifecycle and can include everything from rotting fruit and decaying plant matter to animal remains—so they help to enrich the soil and facilitate nutrient cycling in their environment. THANKS, beetles!

@@ -1,0 +1,15 @@
+---
+date: 2025-03-24 16:49:16 -0000
+image: https://senecaparkzoo.org/wp-content/uploads/2025/03/Kenyan-Sand-Boa-IMG_9520-1024x683.jpg
+layout: story
+source_feed: https://senecaparkzoo.org/feed/
+source_name: Seneca Park Zoo
+source_url: https://senecaparkzoo.org/kenyan-sand-boa-ambassador-animal/
+summary: Kenyan Sand Boa (Ambassador Animal) (Gongylophis colubrinus) Reptile Africa
+  The Zoo is home to one Kenyan Sand Boa as part of our ambassador animal program
+  (habitat not on public display). [&#8230;] The post Kenyan Sand Boa (Ambassador
+  Animal) appeared first on Seneca Park Zoo.
+title: Kenyan Sand Boa (Ambassador Animal)
+---
+
+Kenyan Sand Boa (Ambassador Animal) (Gongylophis colubrinus) Reptile Africa The Zoo is home to one Kenyan Sand Boa as part of our ambassador animal program (habitat not on public display). Animal Facts Kenyan Sand Boas are small snakes that spend most of their time burrowed. Kenyan Sand Boa’s eyes, nostrils, and mouths are positioned in a way to avoid excess irritation to their eyes and accidental ingestion of sand and soil as they burrow. Kenyan Sand Boas have blunt tails that are similarly shaped to their heads. This helps to distract a predator from their head. Kenyan Sand Boas are ambush predators. They hide in the sand with their faces exposed, or under plants and rocks. When prey passes, they quickly strike and pull them underneath the sand, constricting them. When food is limited, they can survive without eating for up to 1 year. Diet Carnivorous. Small mammals, birds, and lizards &#8211; their diet includes naked mole rats. Status in natural range Least Concern International Union for Conservation of Nature (IUCN) Red List status Main threats to Kenyan Sand Boas are loss of habitat and illegal collection for the pet trade. Learn About Our Conservation Efforts More Animals From Africa Kenyan Sand Boa (Ambassador Animal) African Bullfrog (Ambassador Animal) Domestic Rabbit (Ambassador Animal) Ring-neck Parakeet (Ambassador Animal) White Rhino Ball Python (Ambassador Animal) Buffalo Weaver Plains Zebra Giant Day Gecko Golden-Breasted Starling East African Spiny-Tailed Lizard Giant African Millipede (Ambassador Animal) Olive Baboon Speckled Mousebird Cape Thick-Knee Superb Starling Masai Giraffe Mombasa Golden Starburst Tarantula Mueller&#8217;s Clawed Frog Naked Mole Rat Taveta Golden Weaver Madagascar Hissing Cockroach (Ambassador Animal) Madagascar Tree Boa (Ambassador Animal) Congo African Grey Parrot (Ambassador Animal) Dumeril&#8217;s Ground Boa (Ambassador Animal) Great Plated Lizard Henkel&#8217;s Leaf-Tailed Gecko Lake Malawi Cichlids Pancake Tortoise (Ambassador Animal) African Penguin African Lion African Bush Viper African Elephant Browse Animals By Region Africa Arctic Circle Asia Central America North America South America By Class Amphibians Birds Fish Invertebrates Mammals Reptiles The post Kenyan Sand Boa (Ambassador Animal) appeared first on Seneca Park Zoo.

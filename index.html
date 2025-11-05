@@ -1,0 +1,78 @@
+---
+layout: default
+title: Home
+---
+
+<div class="stories-grid">
+  {% assign max_stories = site.data.feeds_count | default: 10 %}
+  {% assign two_months_ago = 'now' | date: '%s' | minus: 5184000 %}
+  
+  {% comment %}Group posts by source feed and get the newest from each{% endcomment %}
+  {% assign feeds_hash = '' | split: '' %}
+  {% assign featured_posts = '' | split: '' %}
+  
+  {% for post in site.posts %}
+    {% assign post_timestamp = post.date | date: '%s' %}
+    {% assign feed_key = post.source_feed | default: 'unknown' %}
+    {% assign is_recent = false %}
+    {% if post_timestamp > two_months_ago %}
+      {% assign is_recent = true %}
+    {% endif %}
+    
+    {% comment %}Check if we already have a post from this feed{% endcomment %}
+    {% assign feed_found = false %}
+    {% for existing_feed in feeds_hash %}
+      {% if existing_feed == feed_key %}
+        {% assign feed_found = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    
+    {% comment %}If this is the first recent post from this feed, add it{% endcomment %}
+    {% if feed_found == false and is_recent %}
+      {% assign feeds_hash = feeds_hash | push: feed_key %}
+      {% assign featured_posts = featured_posts | push: post %}
+    {% endif %}
+  {% endfor %}
+  
+  {% comment %}Sort featured posts by date, newest first{% endcomment %}
+  {% assign sorted_posts = featured_posts | sort: 'date' | reverse %}
+  
+  {% for post in sorted_posts limit:max_stories %}
+  <article class="story-card">
+    {% if post.image %}
+    <div class="story-image">
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{ post.image }}" alt="{{ post.title }}">
+      </a>
+    </div>
+    {% endif %}
+    
+    <div class="story-content">
+      <h2 class="story-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      
+      <div class="story-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%B %d, %Y" }}
+        </time>
+      </div>
+      
+      {% if post.summary %}
+      <p class="story-summary">{{ post.summary }}</p>
+      {% elsif post.excerpt %}
+      <p class="story-summary">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+      {% endif %}
+      
+      <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+{% if site.posts.size > max_stories %}
+<div class="more-stories-link">
+  <a href="{{ '/more-stories/' | relative_url }}" class="btn">View More Stories →</a>
+</div>
+{% endif %}

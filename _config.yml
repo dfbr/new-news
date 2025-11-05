@@ -1,0 +1,35 @@
+# Site settings
+title: New News
+description: Your source for the latest news stories
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "story"
+
+# Exclude from processing
+exclude:
+  - feeds_to_check.txt
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"

@@ -1,0 +1,16 @@
+---
+date: 2025-10-22 17:00:00 -0000
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGcS9SwOikwDOG2AXB5ved2cr5mA9f9FsEM_dvKV_msU9Fu0vF43OShFAKomxvcMFNdrHtRcKi_i0Cc4bJhRdpKCQCK52uUNsqnizZSfDLc_WDTWosRqfBOhCfSelNQqujlF4Twa6bjhRhoqY10A7UnwzJcyQMqTyRadDW2Pa85ZzoB3gbTR5ehYVOU8/s72-w640-h426-c/RS51709_2025_09%20Sept%20misc-2860.jpg
+layout: story
+source_feed: https://feeds.feedburner.com/WoodlandParkZBlog
+source_name: Woodland Park Zoo Blog
+source_url: https://blog.zoo.org/2025/10/just-in-time-for-wolf-awareness-week.html
+summary: 'Posted by Craig Newberry, CommunicationsPhotos: Jeremy Dwyer-Lindgren/Woodland
+  Park ZooWe''re pleased to announce the names of our new wolf pack members during
+  Wolf Awareness Week!The four 6-year-old male wolves, all brothers, are named Tamaska
+  (tuh-mah-skuh) Hayes, Lorenzo and Benito! The new family group represents a subspecies
+  of the gray wolf, known...'
+title: 'Just in time for Wolf Awareness Week: Our new pack members have names!'
+---
+
+Posted by Craig Newberry, CommunicationsPhotos: Jeremy Dwyer-Lindgren/Woodland Park ZooWe're pleased to announce the names of our new wolf pack members during Wolf Awareness Week!The four 6-year-old male wolves, all brothers, are named Tamaska (tuh-mah-skuh) Hayes, Lorenzo and Benito! The new family group represents a subspecies of the gray wolf, known as the Mexican gray wolf (Canis lupus baileyi), a relative of gray wolves found in the Pacific Northwest.The Mexican gray wolf is critically endangered, while the gray wolf (Canis lupus) is listed and protected as endangered under the Endangered Species Act and by the state of Washington.Tamaska is giving wolf vibes!This week, October 19 through 25, is Wolf Awareness Week, highlighting the critical role these canids play in maintaining healthy ecosystems. Wolf Awareness Week is celebrated each October, giving the world a chance to learn about wolf behavior, habitats, and the challenges they face, including habitat loss and human conflict.Hayes is so handsome!“Gray wolves still need our watchful eye. We need to make sure science-driven conservation continues to underline wolf policy so that our wolf populations can survive into the future,” said Robert Long, Director of Living Northwest Programs at Woodland Park Zoo. “Wolf recovery has been decades in the making, but wolves are still vulnerable to misinformation. Wolves and people can peacefully coexist, as long as we give them the space and protections they need.” If you’d like to help gray wolves, consider becoming a Zoo Parent by adopting your own! To celebrate the arrival of the wolf pack, the zoo is offering a special limited time ZooParent wolf adoption! Click here to learn more.Hello Lorenzo!Woodland Park Zoo supports wolf recovery in Washington state because wolves have ecological, cultural and intrinsic value. We believe wolves should be legally protected in Washington until science shows that we have a sustainable and ecologically effective wolf population inhabiting all the state’s recovery areas. In keeping with our work to advance coexistence, we endorse nonlethal means for preventing and managing wolf-livestock conflict. We also advocate science-based decision-making for the conservation of wolves in Washington and elsewhere in the U.S.
