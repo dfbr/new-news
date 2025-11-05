@@ -75,3 +75,7 @@ This site is designed to be deployed on GitHub Pages with an automated workflow 
 ## Maximum Stories on Front Page
 
 The number of stories displayed on the front page equals the number of lines in `feeds_to_check.txt` (currently 10 feeds).
+
+## TODO
+
+- [ ] Add default/fallback image for stories that don't have an image in the RSS feed

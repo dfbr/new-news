@@ -164,11 +164,12 @@ body {
   display: flex;
   flex-direction: column;
   background-color: var(--white);
+  justify-content: center;
 }
 
 .story-title {
   font-size: 1.35rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
   line-height: 1.4;
   font-weight: 700;
 }
@@ -200,6 +201,33 @@ body {
 
 .story-source-name strong {
   color: var(--dark-blue);
+}
+
+.story-source-name a {
+  color: var(--accent-blue);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.story-source-name a:hover {
+  color: var(--dark-blue);
+  text-decoration: underline;
+}
+
+.story-summary-section {
+  background-color: var(--card-blue);
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  border-left: 4px solid var(--accent-blue);
+}
+
+.story-summary-text {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: var(--text-dark);
+  margin: 0;
+  font-style: italic;
 }
 
 .story-summary {

@@ -8,11 +8,11 @@ layout: default
     
     <div class="story-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%B %d, %Y at %I:%M %p" }}
+        {{ page.date | date: "%-d" }}{% assign day = page.date | date: "%-d" %}{% if day == "1" or day == "21" or day == "31" %}st{% elsif day == "2" or day == "22" %}nd{% elsif day == "3" or day == "23" %}rd{% else %}th{% endif %} {{ page.date | date: "%B %Y" }}
       </time>
       {% if page.source_name %}
       <span class="story-source-name">
-        <strong>Source:</strong> {{ page.source_name }}
+        <strong>Source:</strong> <a href="{{ page.source_url }}" target="_blank" rel="noopener noreferrer">{{ page.source_name }}</a>
       </span>
       {% endif %}
     </div>
@@ -24,6 +24,12 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.summary %}
+  <div class="story-summary-section">
+    <p class="story-summary-text">{{ page.summary }}</p>
+  </div>
+  {% endif %}
+
   <div class="story-body">
     {{ content }}
   </div>
@@ -31,7 +37,7 @@ layout: default
   {% if page.source_url %}
   <div class="story-source">
     <a href="{{ page.source_url }}" target="_blank" rel="noopener noreferrer" class="source-link">
-      Read the original story →
+      Read the full original story →
     </a>
   </div>
   {% endif %}
