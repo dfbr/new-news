@@ -288,4 +288,32 @@ class RSSFeedProcessor:
             return new_stories
             
         except Exception as e:
-            print(f"  ✗ Error proce
+            print(f"  ✗ Error processing feed: {e}")
+            return 0
+    
+    def process_all_feeds(self):
+        """Process all feeds from the feeds file"""
+        if not os.path.exists(self.feeds_file):
+            print(f"Error: {self.feeds_file} not found")
+            return
+        
+        with open(self.feeds_file, 'r', encoding='utf-8') as f:
+            feeds = [line.strip() for line in f if line.strip() and not line.startswith('#')]
+        
+        print(f"Processing {len(feeds)} feeds...")
+        
+        total_new = 0
+        for feed_url in feeds:
+            total_new += self.process_feed(feed_url)
+        
+        # Save tracking data
+        self.save_processed_stories()
+        
+        print(f"\n{'='*50}")
+        print(f"Total new stories created: {total_new}")
+        print(f"Total stories tracked: {len(self.processed_stories)}")
+        print(f"{'='*50}")
+
+if __name__ == '__main__':
+    processor = RSSFeedProcessor()
+    processor.process_all_feeds()
