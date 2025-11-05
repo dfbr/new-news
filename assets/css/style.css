@@ -38,9 +38,22 @@ body {
   box-shadow: 0 2px 8px var(--shadow);
 }
 
+.site-branding {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.site-logo {
+  height: 60px;
+  width: auto;
+  display: block;
+}
+
 .site-title {
   font-size: 2.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
 }
 
 .site-title a {
@@ -324,6 +337,10 @@ body {
     grid-template-columns: 1fr;
   }
 
+  .site-logo {
+    height: 50px;
+  }
+
   .site-title {
     font-size: 2rem;
   }
@@ -345,6 +362,14 @@ body {
 @media (max-width: 480px) {
   .container {
     padding: 0 15px;
+  }
+
+  .site-logo {
+    height: 40px;
+  }
+
+  .site-branding {
+    gap: 0.5rem;
   }
 
   .site-title {

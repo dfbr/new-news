@@ -10,9 +10,12 @@
 <body>
   <header class="site-header">
     <div class="container">
-      <h1 class="site-title">
-        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      </h1>
+      <div class="site-branding">
+        <img src="{{ '/assets/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="site-logo">
+        <h1 class="site-title">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+      </div>
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
         <a href="{{ '/more-stories/' | relative_url }}" {% if page.url == '/more-stories/' %}class="active"{% endif %}>More Stories</a>
