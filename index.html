@@ -4,43 +4,30 @@ title: Home
 ---
 
 <div class="stories-grid">
-  {% assign max_stories = site.data.feeds_count | default: 10 %}
+  {% assign max_stories = 10 %}
   {% assign two_months_in_seconds = 5184000 %}
   {% assign now_timestamp = 'now' | date: '%s' | plus: 0 %}
   
-  {% comment %}Group posts by source feed and get the newest from each{% endcomment %}
-  {% assign feeds_hash = '' | split: '' %}
-  {% assign featured_posts = '' | split: '' %}
+  {% comment %}Collect one recent story per feed{% endcomment %}
+  {% assign seen_feeds = "" %}
+  {% assign stories_shown = 0 %}
   
   {% for post in site.posts %}
+    {% if stories_shown >= max_stories %}
+      {% break %}
+    {% endif %}
+    
     {% assign post_timestamp = post.date | date: '%s' | plus: 0 %}
     {% assign age_in_seconds = now_timestamp | minus: post_timestamp %}
     {% assign feed_key = post.source_feed | default: 'unknown' %}
-    {% assign is_recent = false %}
+    
+    {% comment %}Check if post is recent (less than 2 months old){% endcomment %}
     {% if age_in_seconds < two_months_in_seconds %}
-      {% assign is_recent = true %}
-    {% endif %}
-    
-    {% comment %}Check if we already have a post from this feed{% endcomment %}
-    {% assign feed_found = false %}
-    {% for existing_feed in feeds_hash %}
-      {% if existing_feed == feed_key %}
-        {% assign feed_found = true %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-    
-    {% comment %}If this is the first recent post from this feed, add it{% endcomment %}
-    {% if feed_found == false and is_recent %}
-      {% assign feeds_hash = feeds_hash | push: feed_key %}
-      {% assign featured_posts = featured_posts | push: post %}
-    {% endif %}
-  {% endfor %}
-  
-  {% comment %}Sort featured posts by date, newest first{% endcomment %}
-  {% assign sorted_posts = featured_posts | sort: 'date' | reverse %}
-  
-  {% for post in sorted_posts limit:max_stories %}
+      {% comment %}Check if we've already shown a story from this feed{% endcomment %}
+      {% unless seen_feeds contains feed_key %}
+        {% assign seen_feeds = seen_feeds | append: "|" | append: feed_key | append: "|" %}
+        {% assign stories_shown = stories_shown | plus: 1 %}
+        
   <article class="story-card">
     {% if post.image %}
     <div class="story-image">
@@ -70,6 +57,8 @@ title: Home
       <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
     </div>
   </article>
+      {% endunless %}
+    {% endif %}
   {% endfor %}
 </div>
 
