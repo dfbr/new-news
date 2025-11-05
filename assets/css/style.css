@@ -6,14 +6,16 @@
 }
 
 :root {
-  --light-blue: #d4e9f7;
-  --card-blue: #e8f4fa;
-  --dark-blue: #1976d2;
-  --accent-blue: #2196f3;
+  /* Unified blue palette based on #59b1e5 */
+  --dark-blue: #59b1e5;        /* primary brand blue */
+  --accent-blue: #2a86c5;      /* highlight/hover blue */
+  --light-blue: #d7ecfb;       /* page background */
+  --card-blue: #eaf5fd;        /* card chrome background */
+  --border-color: #9ed3f2;     /* subtle borders derived from primary */
+
   --text-dark: #212121;
   --text-light: #757575;
   --white: #ffffff;
-  --border-color: #b3d9ff;
   --shadow: rgba(0, 0, 0, 0.1);
   --card-shadow: rgba(0, 0, 0, 0.15);
 }
@@ -132,7 +134,7 @@ body {
   width: 100%;
   height: 220px;
   overflow: hidden;
-  background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+  background: linear-gradient(135deg, var(--light-blue) 0%, var(--dark-blue) 100%);
   position: relative;
 }
 
