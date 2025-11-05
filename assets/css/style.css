@@ -36,8 +36,8 @@ body {
 
 /* Header */
 .site-header {
-  background-color: var(--white);
-  border-bottom: 3px solid var(--dark-blue);
+  background-color: var(--dark-blue);
+  border-bottom: 3px solid var(--accent-blue);
   padding: 1.5rem 0;
   box-shadow: 0 2px 8px var(--shadow);
 }
@@ -61,13 +61,13 @@ body {
 }
 
 .site-title a {
-  color: var(--dark-blue);
+  color: #000000;
   text-decoration: none;
   font-weight: 700;
 }
 
 .site-title a:hover {
-  color: var(--accent-blue);
+  color: #000000;
 }
 
 .site-nav {
@@ -77,18 +77,22 @@ body {
 }
 
 .site-nav a {
-  color: var(--text-dark);
+  color: var(--white);
+  background-color: var(--accent-blue);
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
   padding: 0.5rem 1rem;
-  border-radius: 4px;
+  border-radius: 6px;
   transition: all 0.3s ease;
+  box-shadow: 0 2px 4px var(--shadow);
+  border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
 .site-nav a:hover,
 .site-nav a.active {
-  background-color: var(--accent-blue);
+  background-color: var(--dark-blue);
   color: var(--white);
+  border-color: rgba(255, 255, 255, 0.4);
 }
 
 /* Main Content */
