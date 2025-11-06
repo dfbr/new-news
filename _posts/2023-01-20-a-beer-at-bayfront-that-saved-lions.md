@@ -1,6 +1,5 @@
 ---
 date: 2023-01-20 20:14:00 -0000
-image: https://www.napleszoo.org//assets/2337/lioness_tarangireoctober2019.jpg
 layout: story
 source_feed: https://www.napleszoo.org/default.aspx?p=158197&feed=rss
 source_name: Naples Zoo Blog Updates

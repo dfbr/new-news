@@ -1,6 +1,5 @@
 ---
 date: 2021-06-18 11:00:00 -0000
-image: https://www.napleszoo.org//assets/2337/news_web_page_cover_photo-2021061808582983.png
 layout: story
 source_feed: https://www.napleszoo.org/default.aspx?p=158197&feed=rss
 source_name: Naples Zoo Blog Updates

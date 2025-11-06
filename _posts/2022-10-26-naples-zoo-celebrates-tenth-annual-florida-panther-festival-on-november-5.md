@@ -1,6 +1,5 @@
 ---
 date: 2022-10-26 16:15:00 -0000
-image: https://www.napleszoo.org//assets/2337/panther_cover_image.jpg
 layout: story
 source_feed: https://www.napleszoo.org/default.aspx?p=158197&feed=rss
 source_name: Naples Zoo Blog Updates

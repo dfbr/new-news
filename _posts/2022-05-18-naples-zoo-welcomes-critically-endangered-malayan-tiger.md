@@ -1,6 +1,5 @@
 ---
 date: 2022-05-18 15:14:00 -0000
-image: https://www.napleszoo.org//assets/2337/01_tiger_51722.jpeg
 layout: story
 source_feed: https://www.napleszoo.org/default.aspx?p=158197&feed=rss
 source_name: Naples Zoo Blog Updates

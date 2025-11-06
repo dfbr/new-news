@@ -1,6 +1,5 @@
 ---
 date: 2022-10-11 15:05:00 -0000
-image: https://www.napleszoo.org//assets/2337/reopening_friday_1014.png
 layout: story
 source_feed: https://www.napleszoo.org/default.aspx?p=158197&feed=rss
 source_name: Naples Zoo Blog Updates
