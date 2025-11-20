@@ -1,0 +1,17 @@
+---
+date: 2025-11-20 03:35:00 -0000
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRF9SyB9m9CP6zWvcLjrpXGNqIZcZzQXPROzldmWjvfVb5mceJiS9kvJQyeA7AvJXqykh_Ty5aC9ZMZFW7st6YRgavMw0tPfEpKCs_cYi1CpLhf_imPiouD__y8uVLlmHlcNUU9AV1K6_d50xJdQ-u2v2CJyfgj2m-bUMq8aQWIKwuUuNpNV8bRp9fBus/s72-w640-h426-c/RS48156_2024_08_28%20Medina%20family-8_ohi.jpg
+layout: story
+source_feed: https://feeds.feedburner.com/WoodlandParkZBlog
+source_name: Woodland Park Zoo Blog
+source_url: https://blog.zoo.org/2025/11/zoo-invites-non-profits-to-apply-for.html
+summary: 'Posted by Gigi Allianic, CommunicationsPhotos: Jeremy Dwyer-Lindgren/Woodland
+  Park ZooCalling non-profits and human service organizations! Woodland Park Zoo provides
+  over 100,000 free tickets each year to community partner organizations to support
+  access to the zoo through its Community Access Program (CAP). Applications are now
+  open for CAP and the zoo invites...'
+title: Zoo invites non-profits to apply for free zoo tickets. 100,000 tickets available
+  to qualifying organizations.
+---
+
+Posted by Gigi Allianic, CommunicationsPhotos: Jeremy Dwyer-Lindgren/Woodland Park ZooCalling non-profits and human service organizations! Woodland Park Zoo provides over 100,000 free tickets each year to community partner organizations to support access to the zoo through its Community Access Program (CAP). Applications are now open for CAP and the zoo invites non-profit and human service organizations across the Puget Sound to apply to become a CAP partner for 2026.Applications for 2026 are now open through Nov. 25, 2025, and can be completed at zoo.org/community. Applications are only accepted during the designated time periods.A longstanding Woodland Park Zoo program, CAP works with over 400 non-profit and human service partners each year so that the organizations can distribute tickets to the individuals and communities they serve, particularly to those who may have traditionally faced economic, ability or cultural barriers to visiting the zoo.To ensure equitable distribution throughout the community, CAP only partners with qualifying organizations and does not provide tickets directly to individual people or community members.Eligibility:A nonprofit with verifiable 501(c)3 status OR a Washington state or local government entity OR a Tribal organization that serves under-resourced individuals.Community groups without 501(c)3 status may also apply.Religious organizations should demonstrate a secular community function that provides social services to under-resourced communities regardless of religious affiliation without promoting belief in a particular faith.Individual people/community members are not eligible to apply and instead are encouraged to connect with their local non-profits.To learn more about eligibility, to apply, or to encourage your local non-profit to apply, please visit zoo.org/community.Individuals interested in accessible or discounted ticket programs, such as the $5 Discover Ticket and $40 Explorer Pass membership for foster and kinship families or recipients of EBT/Washington Quest, SUN Bucks or WIC assistance, may find more information at www.zoo.org/discounts. Woodland Park Zoo is proud to offer CAP and thanks 4Culture and other generous contributors for their support of this program.
