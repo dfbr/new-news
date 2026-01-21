@@ -1,0 +1,15 @@
+---
+date: 2026-01-20 17:37:51 -0000
+layout: story
+source_feed: https://senecaparkzoo.org/feed/
+source_name: Seneca Park Zoo
+source_url: https://senecaparkzoo.org/seneca-park-zoo-society-president-ceo-pamela-reed-sanchez-named-to-rbjs-2025-power-list-for-environmental-leaders/
+summary: Seneca Park Zoo is proud to announce that Pamela Reed Sanchez, President
+  and CEO of the Seneca Park Zoo Society, has been named to the 2025 Power List for
+  Environmental [&#8230;] The post Seneca Park Zoo Society President &#038; CEO Pamela
+  Reed Sanchez Named to RBJ’s 2025 Power List for...
+title: Seneca Park Zoo Society President & CEO Pamela Reed Sanchez Named to RBJ’s
+  2025 Power List for Environmental Leaders
+---
+
+Seneca Park Zoo is proud to announce that Pamela Reed Sanchez, President and CEO of the Seneca Park Zoo Society, has been named to the 2025 Power List for Environmental Leaders by the Rochester Business Journal.The annual Power List recognizes individuals whose leadership, influence, and commitment are shaping the environmental future of the Greater Rochester region. Pamela’s inclusion reflects her steadfast dedication to conservation, sustainability, and community-centered environmental leadership—values that sit at the heart of Seneca Park Zoo Society’s mission.Since joining the Zoo Society, Pamela has guided the organization through a period of transformational growth, strengthening its role as a regional leader in wildlife conservation, education, and climate action. Under her leadership, the Zoo has expanded its conservation partnerships locally and globally, advanced animal welfare and habitat protection initiatives, and deepened its engagement with the community to inspire environmental stewardship across generations.Pamela’s work also emphasizes the intersection of environmental responsibility and organizational impact—ensuring that conservation outcomes are paired with operational sustainability, inclusive leadership, and long-term vision. Her recognition by RBJ highlights not only her individual contributions but also the collective efforts of the Zoo’s staff, partners, volunteers, and supporters who make this work possible.“I’m honored to be included among so many inspiring environmental leaders,” Pamela shared. “This recognition belongs to the entire Seneca Park Zoo Society team and our community, who believe that protecting wildlife and the natural world is essential to a thriving future for all.”The Zoo Society congratulates Pamela on this well-deserved honor and thanks the Rochester Business Journal for shining a spotlight on leaders driving meaningful environmental change throughout our region.To learn more about Pamela Reed Sanchez and the full 2025 Power List for Environmental Leaders, visit the Rochester Business Journal. Written by Beth LaPierre, Director of Communications and Engagement. The post Seneca Park Zoo Society President &#038; CEO Pamela Reed Sanchez Named to RBJ’s 2025 Power List for Environmental Leaders appeared first on Seneca Park Zoo.
