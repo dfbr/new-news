@@ -1,0 +1,17 @@
+---
+date: 2026-04-17 16:51:00 -0000
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52WMFb2Ild4zV_fpwloUsQFD6LrnF9srUx_lKgjViYwmFk7fsAQtxDFUktZUcSEELyb18FkZhWPGzJHa8haRkd_5VlM5k9suaSyOBtB3IRJdaHKVv50mTB6twuU71D-Vic1T13Z4-sFAYE-sfFL_nfJsQH9RIE_M4vyccm86vWpA7Pb3TcyOt5Ebz6Y0/s72-w426-h640-c/RS53101_2026_04_07%20hooded%20vultures-8.jpg
+layout: story
+source_feed: https://feeds.feedburner.com/WoodlandParkZBlog
+source_name: Woodland Park Zoo Blog
+source_url: https://blog.zoo.org/2026/04/rare-and-remarkable-woodland-park-zoo.html
+summary: 'Posted by Craig Newberry, CommunicationsPhotos: Jeremy Dwyer-LindgrenFor
+  the first time in our 126-year history, critically endangered hooded vultures are
+  calling the zoo homeFor the first time in Woodland Park Zoo’s 126-year history,
+  two critically endangered hooded vultures are calling the zoo home!The new hooded
+  vultures (Necrosyrtes monachus) are a sub‑Saharan...'
+title: 'Rare and Remarkable: Woodland Park Zoo Welcomes Two Critically Endangered
+  Hooded Vultures'
+---
+
+Posted by Craig Newberry, CommunicationsPhotos: Jeremy Dwyer-LindgrenFor the first time in our 126-year history, critically endangered hooded vultures are calling the zoo homeFor the first time in Woodland Park Zoo’s 126-year history, two critically endangered hooded vultures are calling the zoo home!The new hooded vultures (Necrosyrtes monachus) are a sub‑Saharan African species. The nearly 1year-old male’s name is Tutaonana (too-tah-oh-NAH-nah), Swahili for "see you later." The female will turn 2 this month and is named Kiara (kee-AH-rah), Swahili for “princess.”Welcome&nbsp;Tutaonana and Kiara!The pair can be found across from the maned wolves, where they have quickly gotten comfortable in their new home and are enjoying snacking on their favorite treat of raw meatballs.These Old World birds are sure to stun guests with their dark brown plumage and the thin, bare skin on their heads and face that give them their “hooded” appearance. They also sport an impressive wingspan that’s well over 5 feet!The population of hooded vultures has dramatically declined over recent decades, making them one of Africa’s most threatened birds. Threats to their survival include poisoning and hunting.&nbsp;As scavengers, vultures are commonly referred to as “nature’s cleanup crew”; they provide an essential ecosystem service by rapidly consuming animal remains, helping prevent the spread of disease.“Hooded vultures are remarkable survivors and essential to a healthy ecosystem,” said Shawn Pedersen, Curator of Ornithology at Woodland Park Zoo. “We’re excited to welcome this critically endangered species to the zoo to inspire curiosity in our guests and help ensure the future of these birds.”Vultures provide an essential ecosystem service by rapidly consuming animal remains, helping prevent the spread of disease,Like many species of vultures across the world, the population of hooded vultures has dramatically declined over recent decades, making them one of Africa’s most threatened birds. The species, listed as critically endangered by the International Union for Conservation of Nature (IUCN), continues to face several challenges including poisoning, habitat loss, reduced food sources and hunting.
