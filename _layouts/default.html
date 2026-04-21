@@ -6,7 +6,7 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   {% capture keywords_raw %}{% include keywords.txt %}{% endcapture %}
-  {% assign keywords_content = keywords_raw | strip | split: newline | join: ", " %}
+  {% assign keywords_content = keywords_raw | strip | replace: newline, ", " %}
   <meta name="keywords" content="{{ keywords_content }}">
   
   <!-- Favicons -->
