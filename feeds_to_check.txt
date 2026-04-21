@@ -10,3 +10,4 @@ https://www.climber.co.uk/news.rss
 https://www.worldrecordacademy.org/feed/rss2
 https://ilsandviken.no/rss-feed
 https://www.brann.no/rss-nyheter
+https://feeds.bbci.co.uk/sport/football/teams/newport-county/rss.xml
