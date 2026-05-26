@@ -32,6 +32,5 @@ exclude:
   - Gemfile.lock
   - vendor/
 
-# Pagination
-paginate: 10
-paginate_path: "/page:num/"
+# Pagination disabled: this site does not use paginator content, and generated
+# /pageN/ URLs create duplicate pages in search indexing.
