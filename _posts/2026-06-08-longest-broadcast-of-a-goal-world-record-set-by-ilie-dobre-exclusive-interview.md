@@ -4,9 +4,9 @@ image: https://irp.cdn-website.com/08d31351/dms3rep/multi/113138_longest_broadca
 layout: story
 source_feed: https://www.worldrecordacademy.org/feed/rss2
 source_name: 2026 World Record News
-source_url: http://www.worldrecordacademy.org/2026/6/longest-broadcast-of-a-goal-world-record-set-by-ilie-dobre-exclusive-interview-426107
+source_url: http://www.worldrecordacademy.org/2026/6/longest-broadcast-of-a-goal-world-record-set-by-ilie-dobre-exclusive-interview-
 summary: BUCHAREST, Romania -- Mr. Ilie Dobre, former sport commentator now working
-  at prosport.ro, broadcasted a 42,3 seconds-long goal shot during the football match
+  at prosport.ro, broadcasted a 42,3 seconds-long goal shout during the football match
   between Steaua Bucharest and- Corvinul Hunedoara, setting the new world record for
   the Longest broadcast of a goal without respiration.
 title: Longest broadcast of a goal, world record set by Ilie Dobre (EXCLUSIVE interview)
