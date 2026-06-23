@@ -4,7 +4,7 @@ image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/c36aac30-63
 layout: story
 source_feed: https://feeds.bbci.co.uk/sport/football/teams/norway/rss.xml
 source_name: BBC Sport
-source_url: https://www.bbc.com/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss
+source_url: https://www.bbc.co.uk/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss
 summary: Steve Clarke is branded "unprofessional" by Norway counterpart Stale Solbakken
   after Scotland cancelled a training-ground friendly before the World Cup.
 title: Norway boss brands Scotland's Clarke 'unprofessional'

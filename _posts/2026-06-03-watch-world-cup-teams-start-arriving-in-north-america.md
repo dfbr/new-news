@@ -4,7 +4,7 @@ image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c9/live/7d6478c0-5f
 layout: story
 source_feed: https://feeds.bbci.co.uk/sport/football/teams/norway/rss.xml
 source_name: BBC Sport
-source_url: https://www.bbc.com/news/videos/cm2pmr6962jo?at_medium=RSS&at_campaign=rss
+source_url: https://www.bbc.co.uk/news/videos/cm2pmr6962jo?at_medium=RSS&at_campaign=rss
 summary: Some wore matching suits and others carried identical green bags as they
   landed, just days before the tournament kicks off.
 title: 'Watch: World Cup teams start arriving in North America'

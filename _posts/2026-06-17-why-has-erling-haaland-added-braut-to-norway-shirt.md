@@ -4,7 +4,7 @@ image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1957/live/fe937c20-6a
 layout: story
 source_feed: https://feeds.bbci.co.uk/sport/football/teams/norway/rss.xml
 source_name: BBC Sport
-source_url: https://www.bbc.com/sport/football/articles/c70y5r8q1ryo?at_medium=RSS&at_campaign=rss
+source_url: https://www.bbc.co.uk/sport/football/articles/c70y5r8q1ryo?at_medium=RSS&at_campaign=rss
 summary: Our Ask Me Anything team explain why the player's Norway shirt displays the
   name Erling Braut Haaland.
 title: Why has Erling Haaland added 'Braut' to Norway shirt?

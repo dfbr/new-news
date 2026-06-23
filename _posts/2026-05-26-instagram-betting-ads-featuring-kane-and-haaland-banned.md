@@ -4,7 +4,7 @@ image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a06/live/db897500-59
 layout: story
 source_feed: https://feeds.bbci.co.uk/sport/football/teams/norway/rss.xml
 source_name: BBC Sport
-source_url: https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss
+source_url: https://www.bbc.co.uk/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss
 summary: The advertising watchdog said the adverts featuring top footballers had a
   strong appeal to under-18s.
 title: Instagram betting ads featuring Kane and Haaland banned

@@ -4,7 +4,7 @@ image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/15fee640-55
 layout: story
 source_feed: https://feeds.bbci.co.uk/sport/football/teams/norway/rss.xml
 source_name: BBC Sport
-source_url: https://www.bbc.com/sport/football/articles/c74d7j5lw8po?at_medium=RSS&at_campaign=rss
+source_url: https://www.bbc.co.uk/sport/football/articles/c74d7j5lw8po?at_medium=RSS&at_campaign=rss
 summary: Arsenal captain Martin Odegaard is named captain of Norway's 26-man squad
   for this summer's World Cup.
 title: Haaland and Odegaard head Norway World Cup squad

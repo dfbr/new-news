@@ -4,7 +4,7 @@ image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b4/live/168d6d10-5e
 layout: story
 source_feed: https://feeds.bbci.co.uk/sport/football/teams/norway/rss.xml
 source_name: BBC Sport
-source_url: https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss
+source_url: https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss
 summary: Erling Haaland has guided Norway to their first World Cup since 1998. So
   what is it like being a global name from a nation with a population of just 5.5m
   people?

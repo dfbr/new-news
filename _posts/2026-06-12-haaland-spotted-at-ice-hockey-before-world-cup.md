@@ -4,7 +4,7 @@ image: https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c56/live/77b502c0-66
 layout: story
 source_feed: https://feeds.bbci.co.uk/sport/football/teams/norway/rss.xml
 source_name: BBC Sport
-source_url: https://www.bbc.com/sport/ice-hockey/videos/cx24v5ez8lxo?at_medium=RSS&at_campaign=rss
+source_url: https://www.bbc.co.uk/sport/ice-hockey/videos/cx24v5ez8lxo?at_medium=RSS&at_campaign=rss
 summary: Norway striker Erling Haaland and his team-mates build up to their World
   Cup adventure by taking in a Stanley Cup ice hockey match between Carolina Hurricanes
   and Vegas Golden Knights.
