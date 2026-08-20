@@ -1,0 +1,16 @@
+---
+date: 2026-08-12 21:35:00 -0000
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkdSWMNkGe2n8J3NfqWy8jnWaAA5G4IfFHgVRc69uUO6XYdKIGhyphenhyphenV7Ih5tFPv_BNItlrkv6eXVj03YHSvr7jaR9lzLs3hTqvW1R7L-2pTiLrmrF3QLGLhyDd1vwGW1b8vUsBWA5aqAUT5zWca6RWUK3JpvqYSkPexOToTxfpRiXM3qLILrOh3QUpCrAc/s72-w426-h640-c/RS54947_2026-08%20sloth%20jessie-1_ovi.jpg
+layout: story
+source_feed: https://feeds.feedburner.com/WoodlandParkZBlog
+source_name: Woodland Park Zoo Blog
+source_url: https://blog.zoo.org/2026/08/hang-time-doubled-woodland-park-zoo.html
+summary: 'Posted by Craig Newberry, CommunicationsPhotos: Jeremy Dwyer-Lindgren/Woodland
+  Park ZooWelcome, Jessie! We''re excited to hang with you!Woodland Park Zoo is excited
+  to announce the arrival of Jessie, a female Hoffmann’s two-toed sloth, who is joining
+  Fezzik, the male sloth who arrived last year.Jessie, 26, was born September 10,
+  1999, at Philadelphia...'
+title: 'Hang Time Doubled: Woodland Park Zoo Welcomes Second Sloth!'
+---
+
+Posted by Craig Newberry, CommunicationsPhotos: Jeremy Dwyer-Lindgren/Woodland Park ZooWelcome, Jessie! We're excited to hang with you!Woodland Park Zoo is excited to announce the arrival of Jessie, a female Hoffmann’s two-toed sloth, who is joining Fezzik, the male sloth who arrived last year.Jessie, 26, was born September 10, 1999, at Philadelphia Zoo and has had three offspring. Her arrival marks an exciting new chapter for the zoo and gives guests another opportunity to connect with this elusive tree-dwelling species.Jessie, who is 26 years old, recently arrived from Philadelphia Zoo.Jessie and Fezzik,11, are Hoffmann’s two-toed sloths—Choloepus hoffmanni—a species known for its slow-moving, upside-down lifestyle in the forest canopy. Named for the two long, curved claws on each front foot, these nocturnal mammals spend much of their time resting, climbing and browsing on leaves, fruit and flowers.Sloths are found in Central and South America and are generally known for gentle dispositions and unhurried movements. Jessie will live with Fezzik, our male Hoffmann's two-toed sloth. You'll find them in the zoo's Tropical Rain Forest habitat, where they will share space with the zoo's golden lion tamarins.Jessie and Fezzik were paired under a breeding recommendation through the Association of Zoos and Aquarium’s Species Survival Plan and will live together in their habitat. In true sloth fashion, Jessie and Fezzik are still slooowly being introduced to each other, so only one sloth may be visible in the short term while they get to know each other. “We’re thrilled to have a second sloth, Jessie, join Fezzik here at Woodland Park Zoo,” said Arden Robert, Animal Care Manager at Woodland Park Zoo. “Jessie and Fezzik offer visitors a unique chance to observe the calm, fascinating behaviors that make sloths so beloved.” Guests can find Jessie and Fezzik hanging out in the zoo’s Tropical Rain Forest, where they also share their habitat with the zoo’s golden lion tamarins.
